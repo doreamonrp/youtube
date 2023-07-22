@@ -1,0 +1,16 @@
+Mordern user interface
+Connection to OpenAI's model
+Integration of RTK
+Copy to clipboard
+Browser History 
+
+SUMZ 
+//Open AI libraries
+
+RapidAPI is a platform that allows developers to easily access and integrate various APIs (Application Programming Interfaces) into their applications
+
+
+index.html will provide the fonts and tailwind css is going to listen 
+
+n summary, these @tailwind directives in the app.css file allow you to import the base styles, components, and utility classes provided by Tailwind CSS. They form the foundation of the Tailwind CSS framework, enabling you to rapidly style your application using pre-defined styles and utility classes
+--used in app.css as it is the main styling file
